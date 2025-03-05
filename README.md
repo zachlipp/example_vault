@@ -2,6 +2,8 @@
 
 A snapshot of how I work with Obsidian at the moment. 
 
+![](vault.png)
+
 Requires the following community plugins:
 - [`templater`](https://silentvoid13.github.io/Templater/introduction.html)
 - [`folder notes`](https://lostpaul.github.io/obsidian-folder-notes/)
